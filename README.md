@@ -2,7 +2,7 @@
 
 Meu nome é Rafael <b>Pizão</b>.
 <br>Sou pai, analista de sistemas e gamer (<i>nessa ordem de prioridade!</i>).
-Apaixonado por novas tecnologias, boas práticas e métodos ágeis.
+<br>Apaixonado por novas tecnologias, boas práticas e métodos ágeis.
 
 Mais sobre mim!
 
